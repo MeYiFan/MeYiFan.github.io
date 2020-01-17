@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-17T06:49:20.557Z</updated>
+  <updated>2020-01-17T15:07:58.502Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>有趣的灵魂</title>
+    <link href="http://yoursite.com/2020/01/17/%E6%9C%89%E8%B6%A3%E7%9A%84%E7%81%B5%E9%AD%82/"/>
+    <id>http://yoursite.com/2020/01/17/%E6%9C%89%E8%B6%A3%E7%9A%84%E7%81%B5%E9%AD%82/</id>
+    <published>2020-01-17T15:06:09.000Z</published>
+    <updated>2020-01-17T15:07:58.502Z</updated>
+    
+    <content type="html"><![CDATA[<p>所谓有趣的灵魂，实际上就是这个人的信息密度和知识层面，都远高于你，并愿意俯下身去听你说那些毫无营养的废话和你交流，提一些你没有听过的观点，颠覆了你短浅的想象力及三观。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;所谓有趣的灵魂，实际上就是这个人的信息密度和知识层面，都远高于你，并愿意俯下身去听你说那些毫无营养的废话和你交流，提一些你没有听过的观点，颠覆了你短浅的想象力及三观。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="想法片段" scheme="http://yoursite.com/categories/%E6%83%B3%E6%B3%95%E7%89%87%E6%AE%B5/"/>
+    
+    
+      <category term="灵魂" scheme="http://yoursite.com/tags/%E7%81%B5%E9%AD%82/"/>
+    
+  </entry>
   
   <entry>
     <title>测试</title>
